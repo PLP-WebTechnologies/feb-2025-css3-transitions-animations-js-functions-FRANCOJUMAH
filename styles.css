@@ -1,3 +1,4 @@
+/* To-Do List */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -51,3 +52,4 @@ li {
   body.dark-mode button {
     background-color: #555;
     color: white;
+  }
